@@ -1,0 +1,240 @@
+ 
+ .content{
+    color: #fff;
+    background: none;
+    font-size: 30px;
+    font-family: poppins;
+    
+    
+    
+
+}
+.button{
+  position: absolute;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 4px 4px;
+  
+}
+
+.content img{
+    max-width: 100px;
+   
+    bottom: 5px;
+}
+.paragraph{
+    color: #fff;
+}
+ 
+
+
+
+
+
+.background-clip{
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    z-index: -1;
+}
+
+@media(min-aspect-ratio:16/9) {
+    background-clip{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media(max-aspect-ratio:16/9) {
+    .background-clip{
+        width: auto;
+        height: 100%;
+    }
+}
+.netflix-icon{
+    display: flex;
+}
+
+
+.n-icon{
+    display: flex;
+}
+.n-icon img{
+    width: 20px;
+    height: 20px;
+    margin-top: 1%;
+}
+
+.n-icon p{
+    font-size: 20px;
+    margin-top: 0.5%;
+}
+.images{
+    position: relative;
+    align-items: center;
+    margin-top: 10px;
+    width: 110vh;
+    column-gap: 10px;
+    display: flex;
+    margin-left: 20px;
+}
+.images img{
+    width: 200px;
+    height: 130px;
+}
+.footer {
+    background: black;
+    width: 100%;
+    height: 500px;
+ } 
+ .footer h1{
+    color: #fff;
+    margin-left: 130px;
+    margin-top: -90px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .paragraph{
+    margin-left: 80px;
+    margin-top: 80px;
+ }
+ .para{
+    color: white;
+    margin-top: -220px;
+    margin-left: 500px;
+ }
+ .text2{
+    margin-top: 40px;
+    margin-left: 500px;
+    color: #fff;
+    display: flex;
+ } 
+ .text{
+    margin-left: 500px;
+    color: #fff;
+    display: flex;
+ } 
+ .life{
+    padding-left: 500px;
+    padding-top: 40px;
+ }
+ .fa{
+    padding-left: 500px;
+    padding-top: 80px;
+ }
+ .img img{
+    width: 15px;
+    height: 15px;
+    margin-left: -200px;
+    margin-top: px;
+
+ }
+ .word{
+    margin-top: 90px;
+    margin-left: -180px;
+ }
+ .div{
+    width: 15px;
+    height: 15px;
+ }
+ .div img{
+    width: 15px;
+    height: 15px;
+    margin-left: 500px;
+    margin-top: 20px;
+ }
+ .vid{
+    margin-left: 520px;
+    margin-bottom: 30px;
+    color: #fff;
+
+ }
+ .image img{
+    width: 15px;
+    height: 15px;
+    margin-left: 500px;
+    margin-top: 5px;
+
+ }
+ .sep{
+    margin-left: 520px;
+    margin-bottom: -70px;
+    padding-top: -40px;
+    color: #fff;
+    margin-top: -20px;
+ }
+ .text img{
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 50px;
+   
+ }
+ .text2 img{
+   width: 120px;
+   border-radius: 10px;
+   margin-left: 50px;
+   height: 90px;
+ }
+ 
+ .cate{
+   float: right;
+   margin-right: 10px;
+   margin-top: -220px;
+   color: #fff;
+ }
+ 
+
+ .enta img  {
+   width: 300px;
+   height: 80px;
+   border-radius: 10px; 
+   position: relative;
+   margin-top: -10px;
+   opacity: 60%;
+ }
+ .fash img {
+   width: 300px;
+   height: 80px;
+   border-radius: 10px; 
+   position: relative;
+   margin-top: -10px;
+   opacity: 50%;
+ }
+ .lifestyle img {
+   width: 300px;
+   height: 80px;
+   border-radius: 10px; 
+   position: relative;
+   margin-top: -10px;
+   opacity: 50%;
+ }
+ .mode{
+   color: #fff;
+   margin-top: -150px;
+   position: absolute;
+   margin-left: 980px;
+ }
+ .sam{
+   color: #fff;
+   margin-top: -70px;
+   position: absolute;
+   margin-left: 980px;
+ }
+ .fed{
+   color: #fff;
+   margin-top: 20px;
+   position: absolute;
+   margin-left: 980px;
+ }
+ .yoo{
+
+ }
+ .yoo h1{
+   font-size: smaller;
+
+ }
+
+
+
+
+ 
